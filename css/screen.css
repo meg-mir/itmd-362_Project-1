@@ -41,6 +41,12 @@ input {
   border: none;
   background-color: #F3FFEC;
 }
+textarea {
+  background-color: #F3FFEC;
+}
+div {
+  text-align: left;
+}
 
 @media only screen and (min-width: 325px) {
 html {
@@ -77,5 +83,11 @@ input {
   border: none;
   background-color: #F3FFEC;
   font-size: 1.5em;
+}
+  textarea {
+  background-color: #F3FFEC;
+}
+div {
+  text-align: left;
 }
 }
