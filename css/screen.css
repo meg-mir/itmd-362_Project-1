@@ -1,6 +1,7 @@
 html {
   height: 100%;
 }
+
 body {
   background-color: #FFECEC;
   text-align: left;
@@ -14,9 +15,15 @@ form {
 
 h1 {
   font-weight: bold;
-  font-size: 35pt;
+  font-size: 65pt;
   font-family: Helvtica, Arial, sans-serif;
   margin: center;
+}
+
+p {
+  font-size: 20%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 
 h3 {
@@ -63,6 +70,12 @@ h1 {
   font-weight: bold;
   font-size: 20%;
   text-align: left;
+}
+ 
+p {
+  font-size: 20%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
   
 h3 {
