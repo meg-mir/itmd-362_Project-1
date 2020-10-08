@@ -1,5 +1,6 @@
 html {
   height: 100%;
+  font-family: Helvtica, Arial, sans-serif;
 }
 
 body {
@@ -11,6 +12,7 @@ body {
 form {
   padding-bottom: 1.5em;
   margin: auto;
+  font-family: Helvtica, Arial, sans-serif;
 }
 
 h1 {
@@ -47,22 +49,27 @@ input {
   margin: 0 auto;
   border: none;
   background-color: #F3FFEC;
+  font-family: Helvtica, Arial, sans-serif;
 }
 textarea {
   background-color: #F3FFEC;
+  font-family: Helvtica, Arial, sans-serif;
 }
 div {
   text-align: left;
+  font-family: Helvtica, Arial, sans-serif;
 }
 
 @media only screen and (min-width: 325px) {
 html {
   height: 100%;
+  font-family: Helvtica, Arial, sans-serif;
 }
   
 body {
   min-height: 100%;
   background-color: #FFECEC;
+  font-family: Helvtica, Arial, sans-serif;
 }
   
 h1 {
@@ -70,6 +77,7 @@ h1 {
   font-weight: bold;
   font-size: 20%;
   text-align: left;
+  font-family: Helvtica, Arial, sans-serif;
 }
  
 p {
@@ -83,10 +91,12 @@ h3 {
   font-weight: normal;
   font-size: 1.5em;
   text-align: left;
+  font-family: Helvtica, Arial, sans-serif;
 }
   
 label {
   font-size: 1.5em;
+  font-family: Helvtica, Arial, sans-serif;
 }
   
 input {
@@ -96,20 +106,25 @@ input {
   border: none;
   background-color: #F3FFEC;
   font-size: 1.5em;
+  font-family: Helvtica, Arial, sans-serif;
 }
   textarea {
   background-color: #F3FFEC;
+  font-family: Helvtica, Arial, sans-serif;
 }
 div {
   text-align: left;
+  font-family: Helvtica, Arial, sans-serif;
 }
 @media only screen and (min-width: 740px) {
   html {
   height: 100%;
+  font-family: Helvtica, Arial, sans-serif;
 }
   body {
     min-height: 100%;
     background-color: #FFECEC;
     font-weight: normal;
+    font-family: Helvtica, Arial, sans-serif;
   }
 }
