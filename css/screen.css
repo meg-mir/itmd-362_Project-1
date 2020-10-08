@@ -103,4 +103,12 @@ input {
 div {
   text-align: left;
 }
+@media only screen and (min-width: 740px) {
+  html {
+  height: 100%;
+}
+  body {
+    min-height: 100%;
+    background-color: #FFECEC;
+  }
 }
