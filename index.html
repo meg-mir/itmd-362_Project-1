@@ -22,23 +22,23 @@
       </div>
 
       <div>
-        <label>First Name:<input type="text" name="first_name_field" placeholder="first name"></label>
+        <label>First Name:<input type="text" name="first_name_field" id="first" placeholder="first name"></label>
       </div>
 
       <div>
-        <label>Last Name:<input type="text" name="last_name_field" placeholder="last name"></label>
+        <label>Last Name:<input type="text" name="last_name_field" id="last" placeholder="last name"></label>
       </div>
 
       <div>
-        <label>Phone Number:<input type="tel" name="phone_field" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="000-000-0000"></label>
+        <label>Phone Number:<input type="tel" name="phone_field" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="000-000-0000"></label>
       </div>
 
       <div>
-        <label>Email Address:<input type="email" name="email_field" placeholder="123@email.com"></label>
+        <label>Email Address:<input type="email" name="email_field" id="email" placeholder="123@email.com"></label>
       </div>
 
       <div>
-        Gender: Male <input type="radio" name="gender_field" value="Male"> Female <input type="radio" name="gender_field" value="Female">
+        Gender: Male <input type="radio" name="gender_field" value="Male" id="gender"> Female <input type="radio" name="gender_field" value="Female" id="gender">
       </div>    
       <div>
         Age: <select name="age_field" id="age">
@@ -55,7 +55,7 @@
     <h3>Locations and Details</h3>
     <legend></legend>
       <div>
-        Locations <select name="location_field" id="locations">
+        Locations <select name="location_field" id="location">
           <option value="San Juan, Puerto Rico">San Juan, Puerto Rico</option>
           <option value="Amsterdam, The Netherlands">Amsterdam, The Netherlands</option>
           <option value="Kenya, Africa">Kenya, Africa</option>
@@ -63,11 +63,11 @@
       </div>
 
       <div>
-        <textarea name="comments_field" rows="15" cols="35" placeholder="What makes YOU the best candidate?"></textarea>
+        <textarea name="comments_field" rows="15" cols="35" id="comments" placeholder="What makes YOU the best candidate?"></textarea>
       </div>
   </fieldset>
   <fieldset>
-    <input type="submit" name="Enter!" value="Enter!" id="submit">
+    <input type="submit" name="submit_field" value="Enter!" id="submit">
   </fieldset>
   </form>
 </body>
