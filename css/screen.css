@@ -7,6 +7,7 @@ body {
   background-color: #FFECEC;
   text-align: left;
   font-family: Helvetica, Arial, sans-serif;
+  margin: auto
 }
 
 form {
@@ -111,6 +112,7 @@ input {
   textarea {
   background-color: #F3FFEC;
   font-family: Helvetica, Arial, sans-serif;
+  margin: auto;
 }
 div {
   text-align: left;
