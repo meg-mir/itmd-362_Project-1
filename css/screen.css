@@ -110,5 +110,6 @@ div {
   body {
     min-height: 100%;
     background-color: #FFECEC;
+    font-weight: normal;
   }
 }
