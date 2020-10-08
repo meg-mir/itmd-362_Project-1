@@ -20,7 +20,7 @@ h1 {
   font-weight: bold;
   font-size: 65pt;
   font-family: Helvetica, Arial, sans-serif;
-  margin: center;
+  margin: auto;
 }
 
 p {
@@ -44,7 +44,7 @@ label {
 }
 
 input {
-  text-align: normal;
+  text-align: left;
   width: 65%;
   padding: 10px;
   margin: 0 auto;
