@@ -1,91 +1,93 @@
 html {
   height: 100%;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
 }
 body {
   background-color: #FFECEC;
   text-align: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
   margin: auto
 }
 form {
   padding-bottom: 1.5em;
   margin: auto;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
 }
 h1 {
   font-weight: bold;
-  font-size: 65pt;
-  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100pt;
+  font-family: Helvetica, Arial, Times, sans-serif;
   margin: auto;
 }
 p {
   font-size: 100%;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
   font-weight: normal;
 }
 h3 {
   font-weight: normal;
-  font-size: 30pt;
-  font-family: Helvetica, Arial, sans-serif;
+  font-size: 45pt;
+  font-family: Helvetica, Arial, Times, sans-serif;
   margin-left: auto;
   margin-right: auto;
 }
 label {
   font-size: 25pt;
   font-weight: normal;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
+  margin: auto;
 }
 input {
   text-align: left;
   width: 65%;
   padding: 10px;
-  margin: 0 auto;
+  margin: auto;
   border: none;
   background-color: #F3FFEC;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
 }
 textarea {
   background-color: #F3FFEC;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
 }
 div {
   text-align: left;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Times, sans-serif;
 }
 
-@media only screen and (min-width: 325px) {
+@media only screen and (min-width: 720px) {
   html {
     height: 100%;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   body {
     min-height: 100%;
     background-color: #FFECEC;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   h1 {
     padding-bottom: 10px;
     font-weight: bold;
-    font-size: 20%;
-    text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   p {
     font-size: 100%;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
   }
   h3 {
     padding-bottom: 10px;
     font-weight: normal;
     font-size: 1.5em;
-    text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   label {
     font-size: 1.5em;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
+    margin: auto;
   }  
   input {
     text-align: left;
@@ -94,60 +96,62 @@ div {
     border: none;
     background-color: #F3FFEC;
     font-size: 1.5em;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   textarea {
     background-color: #F3FFEC;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
   }
   div {
     text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
 }
 
 @media only screen and (min-width: 740px) {
   html {
     height: 100%;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   body {
     min-height: 100%;
     background-color: #FFECEC;
     font-weight: normal;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   h1 {
     font-weight: bold;
-    text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   p {
     font-size: 100%;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
   } 
   h3 {
     font-weight: normal;
-    text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
   label {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
+    margin: auto;
   } 
   input {
     text-align: left;
     border: none;
     background-color: #F3FFEC;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
+    margin: auto;
   }
   textarea {
     background-color: #F3FFEC;
-    font-family: Helvteica, Arial, sans-serif;
+    font-family: Helvteica, Arial, Times, sans-serif;
   }
   div {
     text-align: left;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Helvetica, Arial, Times, sans-serif;
   }
 }
