@@ -41,7 +41,7 @@ label {
   height: 10px;
 }
 input {
-  text-align: left;
+  text-align: center;
   width: 65%;
   padding: 15px;
   margin: auto;
@@ -95,7 +95,7 @@ div {
     margin: auto;
   }  
   input {
-    text-align: left;
+    text-align: center;
     width: 45%;
     padding: 25px;
     border: none;
@@ -152,7 +152,7 @@ div {
     padding: 20px;
   } 
   input {
-    text-align: left;
+    text-align: center;
     border: none;
     background-color: #F3FFEC;
     font-family: Helvetica, Arial, Times, sans-serif;
