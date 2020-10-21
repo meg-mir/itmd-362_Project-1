@@ -23,6 +23,7 @@ p {
   font-size: 100%;
   font-family: Helvetica, Arial, Times, sans-serif;
   font-weight: normal;
+  margin: auto;
 }
 h3 {
   font-weight: normal;
@@ -48,6 +49,7 @@ input {
 }
 textarea {
   background-color: #F3FFEC;
+  margin: auto;
   font-family: Helvetica, Arial, Times, sans-serif;
 }
 div {
@@ -76,6 +78,7 @@ div {
     font-size: 100%;
     font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
+    margin: auto;
   }
   h3 {
     padding-bottom: 10px;
@@ -96,6 +99,7 @@ div {
     border: none;
     background-color: #F3FFEC;
     font-size: 1.5em;
+    margin: auto;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
   textarea {
@@ -109,7 +113,7 @@ div {
   }
 }
 
-@media only screen and (min-width: 740px) {
+@media only screen and (min-width: 325px) {
   html {
     height: 100%;
     font-family: Helvetica, Arial, Times, sans-serif;
@@ -118,17 +122,20 @@ div {
     min-height: 100%;
     background-color: #FFECEC;
     font-weight: normal;
+    margin: auto;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
   h1 {
     font-weight: bold;
     text-align: center;
+    margin: auto;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
   p {
     font-size: 100%;
     font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
+    margin: auto;
   } 
   h3 {
     font-weight: normal;
@@ -148,6 +155,7 @@ div {
   }
   textarea {
     background-color: #F3FFEC;
+    marrgin: auto;
     font-family: Helvteica, Arial, Times, sans-serif;
   }
   div {
