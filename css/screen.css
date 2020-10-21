@@ -37,11 +37,13 @@ label {
   font-weight: normal;
   font-family: Helvetica, Arial, Times, sans-serif;
   margin: auto;
+  padding: 20px;
+  height: 10px;
 }
 input {
   text-align: left;
   width: 65%;
-  padding: 10px;
+  padding: 15px;
   margin: auto;
   border: none;
   background-color: #F3FFEC;
@@ -95,7 +97,7 @@ div {
   input {
     text-align: left;
     width: 45%;
-    padding: 25px 50px;
+    padding: 25px;
     border: none;
     background-color: #F3FFEC;
     font-size: 1.5em;
@@ -136,15 +138,18 @@ div {
     font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
     margin: auto;
+    padding: 10px;
   } 
   h3 {
     font-weight: normal;
     text-align: center;
     font-family: Helvetica, Arial, Times, sans-serif;
+    padding: 25px;
   }
   label {
     font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
+    padding: 20px;
   } 
   input {
     text-align: left;
@@ -152,11 +157,13 @@ div {
     background-color: #F3FFEC;
     font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
+    padding:10px;
   }
   textarea {
     background-color: #F3FFEC;
     marrgin: auto;
     font-family: Helvteica, Arial, Times, sans-serif;
+    padding: 10px;
   }
   div {
     text-align: left;
