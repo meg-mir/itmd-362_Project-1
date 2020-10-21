@@ -56,6 +56,7 @@ textarea {
   background-color: #F3FFEC;
   margin: auto;
   font-family: Helvetica, Arial, Times, sans-serif;
+  text-align: center;
 }
 div {
   text-align: left;
@@ -114,6 +115,7 @@ div {
     background-color: #F3FFEC;
     font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
+    text-align: center;
   }
   div {
     text-align: left;
@@ -172,6 +174,7 @@ div {
     marrgin: auto;
     font-family: Helvteica, Arial, Times, sans-serif;
     padding: 10px;
+    text-align: center;
   }
   div {
     text-align: left;
