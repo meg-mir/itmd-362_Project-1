@@ -15,12 +15,12 @@ form {
 }
 h1 {
   font-weight: bold;
-  font-size: 60pt;
+  font-size: 85pt;
   font-family: Helvetica, Arial, Times, sans-serif;
   margin-bottom: 10%;
 }
 p {
-  font-size: 100%;
+  font-size: 40pt;
   font-family: Helvetica, Arial, Times, sans-serif;
   font-weight: normal;
   margin: auto;
@@ -32,8 +32,8 @@ h3 {
   font-family: Helvetica, Arial, Times, sans-serif;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
-  margin-bottom: 30%;
+  padding: 10px;
+  margin-bottom: 10%;
 }
 label {
   font-size: 25pt;
@@ -42,10 +42,12 @@ label {
   margin: auto;
   padding: 20px;
   height: 10px;
+  text-align: left;
+  width: 40%;
 }
 input {
   text-align: center;
-  width: 65%;
+  width: 40%;
   padding: 15px;
   margin: auto;
   border: none;
