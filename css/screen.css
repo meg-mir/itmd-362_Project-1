@@ -1,15 +1,9 @@
-html {
-  height: 100%;
-  font-family: Helvetica, Arial, Times, sans-serif;
-}
 body {
   background-color: #FFECEC;
-  text-align: left;
   font-family: Helvetica, Arial, Times, sans-serif;
   margin: auto
 }
 form {
-  padding-bottom: 1.5em;
   margin: auto;
   font-family: Helvetica, Arial, Times, sans-serif;
 }
@@ -36,7 +30,7 @@ h3 {
   font-family: Helvetica, Arial, Times, sans-serif;
   padding: 5px;
   margin-bottom: 10%;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 label {
   font-size: 20pt;
@@ -52,7 +46,7 @@ input {
   text-align: center;
   width: 20%;
   padding: 10px;
-  margin: auto;
+  margin-left: 3%;
   margin-top: 11%;
   border: none;
   background-color: #F3FFEC;
@@ -65,21 +59,9 @@ textarea {
   font-family: Helvetica, Arial, Times, sans-serif;
   text-align: center;
 }
-div {
-  text-align: left;
-  font-family: Helvetica, Arial, Times, sans-serif;
-  width: 40%;
-  text-align: center;
-  font-size: 25pt;
-}
 
 @media only screen and (min-width: 720px) {
-  html {
-    height: 100%;
-    font-family: Helvetica, Arial, Times, sans-serif;
-  }
   body {
-    min-height: 100%;
     background-color: #FFECEC;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
@@ -92,7 +74,7 @@ div {
     font-family: Helvetica, Arial, Times, sans-serif;
   }
   p {
-    font-size: 100%;
+    font-size: 40pt;
     font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
     margin: auto;
@@ -101,14 +83,14 @@ div {
   h3 {
     padding: 20px;
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 45pt;
     text-align: center;
     margin-bottom: 10%;
     margin-top: 10%;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
   label {
-    font-size: 1.5em;
+    font-size: 25pt;
     font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
   }  
@@ -118,7 +100,7 @@ div {
     padding: 25px;
     border: none;
     background-color: #F3FFEC;
-    font-size: 1.5em;
+    font-size: 10pt;
     margin: auto;
     margin-top: 11%;
     font-family: Helvetica, Arial, Times, sans-serif;
@@ -132,14 +114,8 @@ div {
 }
 
 @media only screen and (min-width: 325px) {
-  html {
-    height: 100%;
-    font-family: Helvetica, Arial, Times, sans-serif;
-  }
   body {
-    min-height: 100%;
     background-color: #FFECEC;
-    font-weight: normal;
     margin: auto;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
@@ -148,9 +124,10 @@ div {
     text-align: center;
     margin-bottom: 10%;
     font-family: Helvetica, Arial, Times, sans-serif;
+    font-size: 75pt;
   }
   p {
-    font-size: 100%;
+    font-size: 40pt;
     font-family: Helvetica, Arial, Times, sans-serif;
     font-weight: normal;
     margin: auto;
@@ -164,20 +141,23 @@ div {
     padding: 25px;
     margin-bottom: 10%;
     margin-top: 10%;
+    font-size: 45pt;
   }
   label {
     font-family: Helvetica, Arial, Times, sans-serif;
     margin: auto;
     padding: 20px;
+    font-size: 25pt;
   } 
   input {
     text-align: center;
     border: none;
     background-color: #F3FFEC;
     font-family: Helvetica, Arial, Times, sans-serif;
-    margin: auto;
+    margin-left: 3%;
     margin-top: 11%;
     padding: 10px;
+    font-size: 10pt;
   }
   textarea {
     background-color: #F3FFEC;
