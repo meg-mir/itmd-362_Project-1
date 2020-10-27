@@ -58,13 +58,6 @@ input {
   background-color: #F3FFEC;
   font-family: Helvetica, Arial, Times, sans-serif;
   font-size: 10pt;
-#age {
-  text-align: center;
-  font-family: Helvetica, Arial, Times, sans-serif;
-  margin: auto;
-  padding: 10px;
-  width: 20%;
-  font-size: 25pt;
 }
 textarea {
   background-color: #F3FFEC;
@@ -130,14 +123,6 @@ div {
     margin-top: 11%;
     font-family: Helvetica, Arial, Times, sans-serif;
   }
-  #age {
-    text-align: center;
-    font-family: Helvetica, Arial, Times, sans-serif;
-    margin: auto;
-    padding: 10px;
-    width: 20%;
-    font-size: 25pt;
-  }  
   textarea {
     background-color: #F3FFEC;
     font-family: Helvetica, Arial, Times, sans-serif;
@@ -196,17 +181,9 @@ div {
   }
   textarea {
     background-color: #F3FFEC;
-    marrgin: auto;
+    margin: auto;
     font-family: Helvteica, Arial, Times, sans-serif;
     padding: 10px;
     text-align: center;
-  }
-  #age {
-    text-align: center;
-    font-family: Helvetica, Arial, Times, sans-serif;
-    margin: auto;
-    padding: 10px;
-    width: 20%;
-    font-size: 25pt;
   }
 }
